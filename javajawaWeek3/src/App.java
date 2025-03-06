@@ -29,6 +29,7 @@ public class App {
             {1,2},
             {3,4}
         };
+        
 
         // Matriks B
         int[][] matriksB = {
